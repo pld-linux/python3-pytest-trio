@@ -7,7 +7,7 @@ Summary:	Pytest plugin for trio
 Summary(pl.UTF-8):	Wtyczka pytesta do trio
 Name:		python3-pytest-trio
 Version:	0.7.0
-Release:	4
+Release:	5
 License:	MIT or Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-trio/
